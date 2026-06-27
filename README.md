@@ -111,7 +111,7 @@ plagiarism-detection-system
 
 │ └── document4.txt
 
-└── screenshots
+
 
 ---
 
